@@ -15,4 +15,4 @@ categories: Recipes
 
 <br>
 
-Knead until it passes the window pane test and place in a lubed container with olive oil. 
+Knead until it passes the window pane test and place in a lubed container with olive oil. At this point you can leave it in the fridge for up to a week, or you can either leave it out for a few hours with a wet towel over the container. Do not seal it.
