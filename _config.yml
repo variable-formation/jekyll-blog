@@ -2,6 +2,7 @@ title: My Blog
 baseurl: "/"
 header_pages:
   - index.md
+  - resume.md
   - categories.md
 
 style: dark # dark (default), light or hacker
