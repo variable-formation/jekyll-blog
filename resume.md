@@ -4,18 +4,18 @@ layout: page
 permalink: /resume
 ---
 ## Certifications
-1. Az-900: Microsoft Azure Fundamentals
-    * Issued: September 2023
+* Az-900: Microsoft Azure Fundamentals
 
 ## Education
-* Welding Technology @ Tennessee College of Applied Technology
+1. Welding Technology @ Tennessee College of Applied Technology
     * A.A.S in Welding Technology
     * A.A.S in Computer Information Technology
-* Clarksville High School
+2. Clarksville High School
 
 ## Work History
-`July 2023 - Current` __Metropolitan Government of Nashville and Davidson County__<br>
-_Operations Technician I_
+__Metropolitan Government of Nashville and Davidson County__
+    _Operations Technician I_
+    _July 2023 to Present_
 * Diagnose and resolve incidents using documented procedures to perform responsibilities.
 * Perform or monitor system health checks or maintenance tasks following established procedures.
 * Understand job scheduling tools, activation, monitoring, and storage.
@@ -29,8 +29,10 @@ _Operations Technician I_
 * Be available to answer phones at all times.
 * Take ownership of, and resolve/action customer emails within established timelines.
 
-`January 2023 - July 2023` __TEKSystems__<br>
-_Tier I Service Desk at Vanderbilt University Medical Center_
+\
+__TEKSystems__
+    _Tier I Service Desk at Vanderbilt University Medical Center_
+    _From January 2023 to July 2023_
 * Worked with peers in responding to break/fix incidents, deploying software and hardware, and supporting desktop environments. 
 * Diagnosed and resolved end-user devises issues. 
 * Met and maintained Service Level Agreements 
@@ -39,8 +41,10 @@ _Tier I Service Desk at Vanderbilt University Medical Center_
 * Imaged and deployed mobile devices and desktop computers. 
 * Analyzed data regarding patterns of issues and planned how to avoid them in the future. 
 
-`December 2021 - May 2022` __Insight Global__<br>
-_Tier I Help Desk Technician at Federal Aviation Administration_
+\
+__Insight Global__
+    _Tier I Help Desk Technician at Federal Aviation Administration_ 
+    _From December 2021 to May 2022_
 * Answered the phone promptly and maintained a strong phone presence.
 * Utilized the Remedy ticketing system to record and document client issues and work detail.
 * Diagnosed and resolved end-user devise and software issues.

@@ -45,11 +45,10 @@ body {
   font-size: 16px;
   color: var(--text-color);
   text-align: left;
-  line-height: 1.5 !important;
+  line-height: 1.25 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 16px;
   margin: 0px;
   margin-top: 22px;
   font-weight: bold;
@@ -81,7 +80,7 @@ a:hover {
  */
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 800px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -197,7 +196,7 @@ input[type=text], select, textarea {
   caret-color: var(--text-color);
   font-size: 16px;
   font-family: "Source Code Pro", monospace;
-  line-height: 1.5;
+  line-height: 1.25;
 }
 
 input, select, textarea, textarea::-webkit-input-placeholder {
@@ -220,7 +219,7 @@ input, select, textarea, textarea::-webkit-input-placeholder {
 input[type=submit] {
   font-size: 16px;
   font-family: "Source Code Pro", monospace;
-  line-height: 1.5;
+  line-height: 1.25;
   cursor: pointer;
   color: var(--link-color);
   background-color: var(--background-color);
